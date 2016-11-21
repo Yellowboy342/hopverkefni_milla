@@ -1,1 +1,10 @@
 c:\users\2105972719\documents\visual studio 2013\Projects\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe.config
+C:\Users\TEMP\Desktop\Hopverkefni\bin\Debug\Hopverkefni.exe.config
+C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.Form1.resources
+C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.Properties.Resources.resources
+C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\Hopverkefni\bin\Debug\Hopverkefni.exe
+C:\Users\TEMP\Desktop\Hopverkefni\bin\Debug\Hopverkefni.pdb
+C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.exe
+C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.pdb

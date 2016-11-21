@@ -28,98 +28,98 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button9 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
+            this.btnTveir9 = new System.Windows.Forms.Button();
+            this.btnTveir8 = new System.Windows.Forms.Button();
+            this.btnTveir7 = new System.Windows.Forms.Button();
+            this.btnTveir4 = new System.Windows.Forms.Button();
+            this.btnTveir5 = new System.Windows.Forms.Button();
+            this.btnTveir6 = new System.Windows.Forms.Button();
+            this.btnTveir11 = new System.Windows.Forms.Button();
+            this.btnTveir2 = new System.Windows.Forms.Button();
+            this.btnTveir3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button9
+            // btnTveir9
             // 
-            this.button9.Location = new System.Drawing.Point(457, 313);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(113, 104);
-            this.button9.TabIndex = 8;
-            this.button9.Text = "x";
-            this.button9.UseVisualStyleBackColor = true;
+            this.btnTveir9.Location = new System.Drawing.Point(457, 313);
+            this.btnTveir9.Name = "btnTveir9";
+            this.btnTveir9.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir9.TabIndex = 8;
+            this.btnTveir9.UseVisualStyleBackColor = true;
+            this.btnTveir9.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button1
+            // btnTveir8
             // 
-            this.button1.Location = new System.Drawing.Point(346, 313);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(113, 104);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "x";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnTveir8.Location = new System.Drawing.Point(346, 313);
+            this.btnTveir8.Name = "btnTveir8";
+            this.btnTveir8.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir8.TabIndex = 9;
+            this.btnTveir8.UseVisualStyleBackColor = true;
+            this.btnTveir8.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button2
+            // btnTveir7
             // 
-            this.button2.Location = new System.Drawing.Point(235, 313);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(113, 104);
-            this.button2.TabIndex = 10;
-            this.button2.Text = "x";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnTveir7.Location = new System.Drawing.Point(235, 313);
+            this.btnTveir7.Name = "btnTveir7";
+            this.btnTveir7.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir7.TabIndex = 10;
+            this.btnTveir7.UseVisualStyleBackColor = true;
+            this.btnTveir7.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button3
+            // btnTveir4
             // 
-            this.button3.Location = new System.Drawing.Point(235, 211);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(113, 104);
-            this.button3.TabIndex = 11;
-            this.button3.Text = "x";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnTveir4.Location = new System.Drawing.Point(235, 211);
+            this.btnTveir4.Name = "btnTveir4";
+            this.btnTveir4.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir4.TabIndex = 11;
+            this.btnTveir4.UseVisualStyleBackColor = true;
+            this.btnTveir4.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button4
+            // btnTveir5
             // 
-            this.button4.Location = new System.Drawing.Point(346, 211);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(113, 104);
-            this.button4.TabIndex = 12;
-            this.button4.Text = "x";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnTveir5.Location = new System.Drawing.Point(346, 211);
+            this.btnTveir5.Name = "btnTveir5";
+            this.btnTveir5.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir5.TabIndex = 12;
+            this.btnTveir5.UseVisualStyleBackColor = true;
+            this.btnTveir5.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button5
+            // btnTveir6
             // 
-            this.button5.Location = new System.Drawing.Point(457, 211);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(113, 104);
-            this.button5.TabIndex = 13;
-            this.button5.Text = "x";
-            this.button5.UseVisualStyleBackColor = true;
+            this.btnTveir6.Location = new System.Drawing.Point(457, 211);
+            this.btnTveir6.Name = "btnTveir6";
+            this.btnTveir6.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir6.TabIndex = 13;
+            this.btnTveir6.UseVisualStyleBackColor = true;
+            this.btnTveir6.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button6
+            // btnTveir11
             // 
-            this.button6.Location = new System.Drawing.Point(235, 109);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(113, 104);
-            this.button6.TabIndex = 14;
-            this.button6.Text = "x";
-            this.button6.UseVisualStyleBackColor = true;
+            this.btnTveir11.Location = new System.Drawing.Point(235, 109);
+            this.btnTveir11.Name = "btnTveir11";
+            this.btnTveir11.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir11.TabIndex = 14;
+            this.btnTveir11.UseVisualStyleBackColor = true;
+            this.btnTveir11.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button7
+            // btnTveir2
             // 
-            this.button7.Location = new System.Drawing.Point(346, 109);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(113, 104);
-            this.button7.TabIndex = 15;
-            this.button7.Text = "x";
-            this.button7.UseVisualStyleBackColor = true;
+            this.btnTveir2.Location = new System.Drawing.Point(346, 109);
+            this.btnTveir2.Name = "btnTveir2";
+            this.btnTveir2.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir2.TabIndex = 15;
+            this.btnTveir2.UseVisualStyleBackColor = true;
+            this.btnTveir2.Click += new System.EventHandler(this.btnTveir1);
             // 
-            // button8
+            // btnTveir3
             // 
-            this.button8.Location = new System.Drawing.Point(457, 109);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(113, 104);
-            this.button8.TabIndex = 16;
-            this.button8.Text = "x";
-            this.button8.UseVisualStyleBackColor = true;
+            this.btnTveir3.Location = new System.Drawing.Point(457, 109);
+            this.btnTveir3.Name = "btnTveir3";
+            this.btnTveir3.Size = new System.Drawing.Size(113, 104);
+            this.btnTveir3.TabIndex = 16;
+            this.btnTveir3.UseVisualStyleBackColor = true;
+            this.btnTveir3.Click += new System.EventHandler(this.btnTveir1);
             // 
             // label1
             // 
@@ -137,15 +137,15 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(843, 456);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button8);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.button9);
+            this.Controls.Add(this.btnTveir3);
+            this.Controls.Add(this.btnTveir2);
+            this.Controls.Add(this.btnTveir11);
+            this.Controls.Add(this.btnTveir6);
+            this.Controls.Add(this.btnTveir5);
+            this.Controls.Add(this.btnTveir4);
+            this.Controls.Add(this.btnTveir7);
+            this.Controls.Add(this.btnTveir8);
+            this.Controls.Add(this.btnTveir9);
             this.Name = "Form1";
             this.Text = "Mylla";
             this.ResumeLayout(false);
@@ -155,15 +155,15 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button btnTveir9;
+        private System.Windows.Forms.Button btnTveir8;
+        private System.Windows.Forms.Button btnTveir7;
+        private System.Windows.Forms.Button btnTveir4;
+        private System.Windows.Forms.Button btnTveir5;
+        private System.Windows.Forms.Button btnTveir6;
+        private System.Windows.Forms.Button btnTveir11;
+        private System.Windows.Forms.Button btnTveir2;
+        private System.Windows.Forms.Button btnTveir3;
         private System.Windows.Forms.Label label1;
     }
 }
