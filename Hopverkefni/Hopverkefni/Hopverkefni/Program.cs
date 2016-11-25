@@ -16,7 +16,7 @@ namespace Hopverkefni
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new btnNyrLekur());
+            Application.Run(new Form1());
         }
     }
 }
