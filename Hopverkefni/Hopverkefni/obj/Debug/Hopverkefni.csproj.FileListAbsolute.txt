@@ -35,3 +35,6 @@ C:\Users\2105972719\Desktop\Hopverkefni\obj\Debug\Hopverkefni.csprojResolveAssem
 C:\Users\2105972719\Desktop\Hopverkefni\obj\Debug\Hopverkefni.btnNyrLekur.resources
 C:\Users\2105972719\Desktop\Hopverkefni\obj\Debug\Hopverkefni.Properties.Resources.resources
 C:\Users\2105972719\Desktop\Hopverkefni\obj\Debug\Hopverkefni.csproj.GenerateResource.Cache
+H:\Hopverkefni\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe.config
+H:\Hopverkefni\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.exe
+H:\Hopverkefni\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.pdb
