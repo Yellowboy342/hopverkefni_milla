@@ -8,3 +8,12 @@ C:\Users\TEMP\Desktop\Hopverkefni\bin\Debug\Hopverkefni.exe
 C:\Users\TEMP\Desktop\Hopverkefni\bin\Debug\Hopverkefni.pdb
 C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.exe
 C:\Users\TEMP\Desktop\Hopverkefni\obj\Debug\Hopverkefni.pdb
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe.config
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.exe
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.pdb
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.pdb
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.csprojResolveAssemblyReference.cache
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Form1.resources
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Properties.Resources.resources
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.csproj.GenerateResource.Cache
