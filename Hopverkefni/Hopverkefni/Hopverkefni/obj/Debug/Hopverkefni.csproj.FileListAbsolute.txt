@@ -1,0 +1,2 @@
+c:\users\2105972719\documents\visual studio 2013\Projects\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe.config
+C:\Users\2105972719\Desktop\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe.config
