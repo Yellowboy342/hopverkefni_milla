@@ -48,3 +48,13 @@ C:\Users\0201982499\Desktop\Hopverkefni\obj\Debug\Hopverkefni.Properties.Resourc
 C:\Users\0201982499\Desktop\Hopverkefni\obj\Debug\Hopverkefni.csproj.GenerateResource.Cache
 C:\Users\0201982499\Desktop\Hopverkefni\bin\Debug\Hopverkefni.exe
 C:\Users\0201982499\Desktop\Hopverkefni\bin\Debug\Hopverkefni.pdb
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe.config
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.exe
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.pdb
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.exe
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\bin\Debug\Hopverkefni.pdb
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.csprojResolveAssemblyReference.cache
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Ai.resources
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.btnNyrLekur.resources
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.Properties.Resources.resources
+H:\hopverkefni_milla\Hopverkefni\Hopverkefni\obj\Debug\Hopverkefni.csproj.GenerateResource.Cache
